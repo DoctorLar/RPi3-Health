@@ -1,5 +1,7 @@
 # RPi3-Health
-Easy script to do upgrade/update
+Easy script to do upgrade,update, dist, transport, and autoclean.
+
+I had an error that my transport was missing.  This solved that.  
 
 #### Setup ####
 
