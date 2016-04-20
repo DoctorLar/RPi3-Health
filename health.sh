@@ -1,4 +1,4 @@
-## This script brings your RPi up to current versions and clean archive files out.
+# This script brings your RPi up to current versions and clean archive files out.
 sudo apt-get update --assume-yes
 sudo apt-get upgrade --assume-yes
 sudo apt-get dist-upgrade --assume-yes
