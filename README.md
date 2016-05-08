@@ -6,7 +6,7 @@ I had an error that my transport was missing.  This solved that.
 #### Setup ####
 
 1. Download the install file.
-  `sudo wget https://github.com/DoctorLar/RPi3-Health/blob/master/health.sh`
+  `sudo wget https://raw.githubusercontent.com/DoctorLar/RPi3-Health/master/health.sh`
 2. Make it executable 
   `sudo chmod +x health.sh`
 3. Execute it with root permissions 
